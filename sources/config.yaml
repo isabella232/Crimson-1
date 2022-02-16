@@ -1,0 +1,5 @@
+    sources:
+      - CrimsonText.glyphs
+      - CrimsonText-Italic.glyphs
+    familyName: "Crimson Text"
+    buildVariable: false
