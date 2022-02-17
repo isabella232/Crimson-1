@@ -259,17 +259,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- zero.lf
-	- eight.lf
+	- five.lf
+	- one.lf
 	- .null
 	- nine.lf
 	- three.lf
 	- two.lf
-	- five.lf
+	- seven.lf
 	- six.lf
-	- four.lf
-	- one.lf 
-	- And seven.lf
+	- zero.lf
+	- eight.lf 
+	- And four.lf
  [code: unreachable-glyphs]
 
 </details>
@@ -855,8 +855,8 @@ of hinted versus unhinted font files.</pre>
 
  |               | CrimsonText-BoldItalic.ttf          |
  |:------------- | ---------------:|
- | Dehinted Size | 58.3kb |
- | Hinted Size   | 58.3kb   |
+ | Dehinted Size | 58.5kb |
+ | Hinted Size   | 58.5kb   |
  | Increase      | -24 bytes      |
  | Change        | -0.0 %  |
  [code: size-impact]
@@ -1258,8 +1258,8 @@ of hinted versus unhinted font files.</pre>
 
  |               | CrimsonText-Italic.ttf          |
  |:------------- | ---------------:|
- | Dehinted Size | 58.7kb |
- | Hinted Size   | 58.7kb   |
+ | Dehinted Size | 59.0kb |
+ | Hinted Size   | 58.9kb   |
  | Increase      | -24 bytes      |
  | Change        | -0.0 %  |
  [code: size-impact]
@@ -1572,17 +1572,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- zero.lf
-	- eight.lf
+	- five.lf
+	- one.lf
 	- .null
 	- nine.lf
 	- three.lf
 	- two.lf
-	- five.lf
+	- seven.lf
 	- six.lf
-	- four.lf
-	- one.lf 
-	- And seven.lf
+	- zero.lf
+	- eight.lf 
+	- And four.lf
  [code: unreachable-glyphs]
 
 </details>
@@ -2032,17 +2032,17 @@ substitution rules. Any glyphs not accessible by either of these means are
 redundant and serve only to increase the font&#x27;s file size.</pre>
 
 * ⚠ **WARN** The following glyphs could not be reached by codepoint or substitution rules:
-	- zero.lf
-	- eight.lf
+	- five.lf
+	- one.lf
 	- .null
 	- nine.lf
 	- three.lf
 	- two.lf
-	- five.lf
+	- seven.lf
 	- six.lf
-	- four.lf
-	- one.lf 
-	- And seven.lf
+	- zero.lf
+	- eight.lf 
+	- And four.lf
  [code: unreachable-glyphs]
 
 </details>
@@ -2567,8 +2567,8 @@ of hinted versus unhinted font files.</pre>
 
  |               | CrimsonText-SemiBoldItalic.ttf          |
  |:------------- | ---------------:|
- | Dehinted Size | 58.0kb |
- | Hinted Size   | 58.0kb   |
+ | Dehinted Size | 58.3kb |
+ | Hinted Size   | 58.3kb   |
  | Increase      | -24 bytes      |
  | Change        | -0.0 %  |
  [code: size-impact]
