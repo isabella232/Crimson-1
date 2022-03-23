@@ -1,0 +1,8 @@
+    sources:
+      - CrimsonText.glyphs
+      - CrimsonText-Italic.glyphs
+    familyName: "Crimson Text"
+    buildVariable: false
+    #buildOTF: false
+    #buildWebfont: false
+    autohintTTF: false
